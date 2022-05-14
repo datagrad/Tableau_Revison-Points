@@ -31,7 +31,7 @@ Some of the most commonly used numeric functions are as follows:
 
 * This extracts the specified number of characters from a given string, from the right. For example, RIGHT(‘Tableau is awesome’, 7) = ‘awesome’.
  
-## Logical Functions
+## Logical Functions 
 
 * Some of the most commonly used logical functions are as follows:
 ### IF and ELSE
