@@ -38,3 +38,5 @@
 * The values of the quantitative variables are represented by the size and the colour intensity of the plot.
 * They can only accommodate two measures: one to control the size and the other to control the colour. 
 * However, it can accommodate any number of dimensions, as it would only increase the number of rectangles on the treemap.
+
+
